@@ -10,7 +10,7 @@ Since the data is very imbalanced SMOTE(over-sampling) was used to deal with tha
 
 After spilliting the data in train and test ,i transformed the data using standard scaler and then i oversampled the data in order to balance it and then i implemented different model on the data like Logistic Regression,KNN,Random Forest,Naive Bayes,XGBoost with accuracy,pression,recall,F1-score and AUC as evaluation metrices.Among all the model XGBosst model performed very well with GridSearch CV as hyperparameter Tunning on both training and test data samples and this model was choosed as final model.
 
-# EDA Conclysion
+# EDA Conclusion
 In our data set around 57% of the patients's gender was Female and around 49.8% of the patients are smokers.18.5% of the Male patients and 12.4% of Female patients and around 16.3% of the patients who are smokers and 13.8% of the non-smoker patients have chances of getting the disease
 only 2.9% of the patient are taking BP medicines and only 0.6% of the patient has prevalent Stroke and around 31.5% of the patients has prevalent Hypertension and only 2.6 % of the patients has Diabetes and Only 15.1% of the patients has a chance of getting cardio-vascular disease in next 10 years
 People at Education Level 1 have more chances of getting the disease than other Education Level
