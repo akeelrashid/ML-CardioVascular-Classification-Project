@@ -1,4 +1,8 @@
 # ML-CardioVascular-Classification-Project
+
+# Problem Statement
+The dataset is from ongoing cardiovascular study on residents of the town of Framingham, Massachutts. The classification goal is to predict whether the patient has a 10-year risk of failure coronary heart disease(CHD). The dataset provides the patient's information . It includes over 4000 records and 15 attributes. Each attribute is a potental risk factor. There are both demographic, behavioral, and medical risk factor
+
 # Project Summary
 I have been given a data-set of cardiovascular study on residents of the town of Framingham, Massachusetts.The dataset contains 3390 rows and 17 features.The dataset doesn't contains any duplicate values but there are many features that contains null values but the percentage of null values is very small and it can be adjusted.The features in the datatset gives us information about the patient like what is the age,education,sex of patient and information like whether the patient is smoker or not if yes then how many cigrates he/she smokes per day and health related information whether the patient is taking any BPmed or not, what is his/her cholestrol level,is he/she diabetic or not,what is his/her BP,BMI,glucose level and heartrate.Using all this information I have to build a model that can predict what are the chances that the patient is at risk of developing Coronary Heart Disease in next 10 years.
 
