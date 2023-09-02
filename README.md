@@ -1,5 +1,5 @@
 # ML-CardioVascular-Classification-Project
-![CardioVasculur disease](https://github.com/akeelrashid/ML-CardioVascular-Classification-Project/assets/121357205/ad677561-1bb5-42d7-9a33-cf9c135d8cb9)
+![220801-Tran-Hearts-2060-tease_mao5hx](https://github.com/akeelrashid/ML-CardioVascular-Classification-Project/assets/121357205/ce8377be-3435-466b-b374-df6df13a45a3)
 
 This project aims to predict the 10-year risk of developing coronary heart disease (CHD) using the Cardiovascular Risk Prediction dataset. The dataset contains information on 3,390 individuals with 16 predictor variables and 1 target variable. The variables represent potential demographic, behavioral, and medical risk factors.
 
